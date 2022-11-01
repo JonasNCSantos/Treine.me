@@ -13,4 +13,6 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - Conceito de Flexbox do CSS
 - Acessibilidade
 - refatoração de código
+- Efeito Hover do CSS
+- `text-transform` do CSS
 - 

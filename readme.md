@@ -8,6 +8,7 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - Elementos HTML Semântica
 - Lista ordenas e não ordenadas do HTML
 - Diferença de `div` para `section`
-- Conceitos de Box Model do CSS
+- Conceito de Box Model do CSS
 - Conhecendo a ferramentas de desenvolvimento DevTools
+- Conceito de Flexbox do CSS
 - 

@@ -15,4 +15,7 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - refatoração de código
 - Efeito Hover do CSS
 - `text-transform` do CSS
+- Propriedade de padding do CSS
+- Propriedade de background do CSS
+- Propriedade de border-radius do CSS
 - 

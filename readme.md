@@ -18,4 +18,5 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - Propriedade de padding do CSS
 - Propriedade de background do CSS
 - Propriedade de border-radius do CSS
-- 
+- Linear gradiente no CSS
+-

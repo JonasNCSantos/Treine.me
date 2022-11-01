@@ -6,4 +6,6 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 
 ## Aprendizados
 - Elementos HTML Semântica
+- Lista ordenas e não ordenadas do HTML
+- Diferença de `div` para `section`
 - 

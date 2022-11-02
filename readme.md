@@ -1,8 +1,11 @@
 # Projeto 02: Treine.me
 <img src="./images/screenshot.jpg"/>
 
+### Acesse o projeto: [Aqui](https://jonasncsantos.github.io/Treine.me/)
 ## Sobre
 Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados no curso Explorer da [Rocketseat](https://www.rocketseat.com.br/") no Stage 02.
+
+
 
 ## Aprendizados
 - Elementos HTML Semântica
